@@ -1,0 +1,17 @@
+C:\Users\arthur.filipus\OneDrive - NDD.Tech\Área de Trabalho\Joguin paia\bin\Debug\net8.0-windows\Joguin paia.exe
+C:\Users\arthur.filipus\OneDrive - NDD.Tech\Área de Trabalho\Joguin paia\bin\Debug\net8.0-windows\Joguin paia.deps.json
+C:\Users\arthur.filipus\OneDrive - NDD.Tech\Área de Trabalho\Joguin paia\bin\Debug\net8.0-windows\Joguin paia.runtimeconfig.json
+C:\Users\arthur.filipus\OneDrive - NDD.Tech\Área de Trabalho\Joguin paia\bin\Debug\net8.0-windows\Joguin paia.dll
+C:\Users\arthur.filipus\OneDrive - NDD.Tech\Área de Trabalho\Joguin paia\bin\Debug\net8.0-windows\Joguin paia.pdb
+C:\Users\arthur.filipus\OneDrive - NDD.Tech\Área de Trabalho\Joguin paia\obj\Debug\net8.0-windows\Joguin paia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthur.filipus\OneDrive - NDD.Tech\Área de Trabalho\Joguin paia\obj\Debug\net8.0-windows\Joguin paia.AssemblyInfoInputs.cache
+C:\Users\arthur.filipus\OneDrive - NDD.Tech\Área de Trabalho\Joguin paia\obj\Debug\net8.0-windows\Joguin paia.AssemblyInfo.cs
+C:\Users\arthur.filipus\OneDrive - NDD.Tech\Área de Trabalho\Joguin paia\obj\Debug\net8.0-windows\Joguin paia.csproj.CoreCompileInputs.cache
+C:\Users\arthur.filipus\OneDrive - NDD.Tech\Área de Trabalho\Joguin paia\obj\Debug\net8.0-windows\Joguin paia.dll
+C:\Users\arthur.filipus\OneDrive - NDD.Tech\Área de Trabalho\Joguin paia\obj\Debug\net8.0-windows\refint\Joguin paia.dll
+C:\Users\arthur.filipus\OneDrive - NDD.Tech\Área de Trabalho\Joguin paia\obj\Debug\net8.0-windows\Joguin paia.pdb
+C:\Users\arthur.filipus\OneDrive - NDD.Tech\Área de Trabalho\Joguin paia\obj\Debug\net8.0-windows\Joguin paia.genruntimeconfig.cache
+C:\Users\arthur.filipus\OneDrive - NDD.Tech\Área de Trabalho\Joguin paia\obj\Debug\net8.0-windows\ref\Joguin paia.dll
+C:\Users\arthur.filipus\OneDrive - NDD.Tech\Área de Trabalho\Joguin paia\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\arthur.filipus\OneDrive - NDD.Tech\Área de Trabalho\Joguin paia\obj\Debug\net8.0-windows\Joguin paia.csproj.AssemblyReference.cache
+C:\Users\arthur.filipus\OneDrive - NDD.Tech\Área de Trabalho\Joguin paia\obj\Debug\net8.0-windows\Joguin paia.csproj.CopyComplete

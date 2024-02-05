@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ko8WfYH0H/MFjs1OJJBSmzSvOCIewHOEaBU6IBoUegpiMuvcppcPsib7n0Lplg7BEApJN5c+DgwUbGJmjvu75A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arthur.filipus\\OneDrive - NDD.Tech\\Área de Trabalho\\Joguin paia\\Joguin paia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arthur.filipus\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\arthur.filipus\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\arthur.filipus\\.nuget\\packages\\naudio\\1.10.0\\naudio.1.10.0.nupkg.sha512",
+    "C:\\Users\\arthur.filipus\\.nuget\\packages\\system.resources.extensions\\4.7.0\\system.resources.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\arthur.filipus\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\arthur.filipus\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
